@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ghostgilso-cyber.github.io/mudanca2026/sitemap.xml
